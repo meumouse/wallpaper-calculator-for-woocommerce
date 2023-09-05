@@ -1,16 +1,14 @@
 {
-	"name": "My Example Plugin",
-	"version": "2.0",
-	"download_url": "http://example.com/updates/example-plugin.zip",
-
-	"homepage": "http://example.com/",
+	"name": "Calculadora de Papel de Parede para WooCommerce",
+	"version": "1.0.0",
+	"download_url": "https://github.com/meumouse/wallpaper-calculator-for-woocommerce/raw/main/dist/wallpaper-calculator-for-woocommerce.zip",
+	"homepage": "https://meumouse.com/",
 	"requires": "4.5",
 	"tested": "4.8",
-	"last_updated": "2017-01-01 16:17:00",
-	"upgrade_notice": "Here's why you should upgrade...",
-
-	"author": "Janis Elsts",
-	"author_homepage": "http://example.com/",
+	"last_updated": "2023-09-05 14:49:00",
+	"upgrade_notice": "Initial versions",
+	"author": "MeuMouse.com",
+	"author_homepage": "https://meumouse.com/",
 
 	"sections": {
 		"description": "(Required) Plugin description. Basic HTML can be used in all sections.",
@@ -20,33 +18,27 @@
 	},
 	
 	"icons" : {
-		"1x" : "http://w-shadow.com/files/external-update-example/assets/icon-128x128.png",
-		"2x" : "http://w-shadow.com/files/external-update-example/assets/icon-256x256.png"
+		"1x" : "",
+		"2x" : ""
     },
 
 	"banners": {
-		"low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
-		"high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+		"low": "",
+		"high": ""
 	},
 
 	"translations": [
 		{
-			"language": "fr_FR",
-			"version": "4.0",
+			"language": "pt_BR",
+			"version": "1.0.0",
 			"updated": "2016-04-22 23:22:42",
 			"package": "http://example.com/updates/translations/french-language-pack.zip"
 		},
-		{
-			"language": "de_DE",
-			"version": "5.0",
-			"updated": "2016-04-22 23:22:42",
-			"package": "http://example.com/updates/translations/german-language-pack.zip"
-		}
 	],
 
-	"rating": 90,
-	"num_ratings": 123,
+	"rating": 0,
+	"num_ratings": 0,
 
-	"downloaded": 1234,
-	"active_installs": 12345
+	"downloaded": 0,
+	"active_installs": 0
 }

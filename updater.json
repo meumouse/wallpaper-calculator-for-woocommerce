@@ -1,11 +1,11 @@
 {
 	"name": "Calculadora de Papel de Parede para WooCommerce",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"download_url": "https://github.com/meumouse/wallpaper-calculator-for-woocommerce/raw/main/dist/wallpaper-calculator-for-woocommerce.zip",
 	"homepage": "https://meumouse.com/",
 	"requires": "4.5",
 	"tested": "6.2.1",
-	"last_updated": "2023-09-05 14:55:00",
+	"last_updated": "2023-09-05 15:56:00",
 	"upgrade_notice": "",
 
 	"author": "MeuMouse.com",
